@@ -9,4 +9,4 @@ Simple progressive web app starter kit
 
 ![Demo](https://github.com/paulhoughton/react-pwa/blob/gh-pages/demo.gif)
 
-# git clone https://github.com/Markkos89/react-pwa-template.git && cd react-pwa-template && npm i
+execute: git clone https://github.com/Markkos89/react-pwa-template.git && cd react-pwa-template && npm i
