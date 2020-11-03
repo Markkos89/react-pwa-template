@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/paulhoughton/react-pwa.git"
+    "url": "https://github.com/markkos89/react-pwa-template.git"
   },
   "license": "MIT",
   "devDependencies": {
